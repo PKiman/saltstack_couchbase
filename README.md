@@ -1,6 +1,10 @@
 # saltstack_couchbase
-
 # Missing saltstack modules for couchbase
+
+This project extends saltstack state modules to configure the couchbase via couchbase-cli command line
+
+Just copy the 2 folders _states and _modules into your file_roots as documented here:
+https://docs.saltstack.com/en/latest/ref/states/writing.html#states-are-easy-to-write
 
 How to use the state modules?
 

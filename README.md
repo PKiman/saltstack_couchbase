@@ -1,5 +1,6 @@
 # saltstack_couchbase
-# Missing saltstack modules for couchbase
+
+Missing saltstack modules for couchbase server
 
 This project extends saltstack state modules to configure the couchbase via couchbase-cli command line
 
